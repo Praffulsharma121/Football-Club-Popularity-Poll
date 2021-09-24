@@ -1,0 +1,20 @@
+
+<h2 class="heading">FC Bayern Munich</h2>
+<div class="container image">
+    <div class="count">
+        <div style="text-align: center;" class="text">
+            Count 
+            <button mat-fab disabled aria-label="Example icon button with a heart icon" style="background-color: black;">
+                <mat-icon style="color: #ffd700;">emoji_events</mat-icon>
+            </button> = {{count}} 
+        </div>
+        <hr/>
+        <button class="vote" (click)="onClick()">
+            Vote - 
+            <button mat-fab color="primary" aria-label="Example icon button with a vertical three dot icon">
+                <mat-icon>thumb_up</mat-icon>
+            </button>
+        </button>
+    </div>
+</div>
+<div class="line"></div>

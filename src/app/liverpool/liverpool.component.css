@@ -1,0 +1,48 @@
+
+.heading{
+    margin-top: -682px;
+    margin-left: 1075px;
+    color: whitesmoke;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+
+
+.container{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    width: 350px;
+    margin-left: 1075px;
+    height: 650px;
+    border: 1px solid transparent;
+}
+
+.image{
+    background-image:url('/assets/IMG-20210923-WA0026-03.jpeg');
+    background-size: cover;
+    background-position:50% 50%;
+  }
+
+  .count{
+    margin-left: -15px;
+    width: 350px;
+    height: 200px;
+    margin-top: 80%;
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+    backdrop-filter: blur(3px);
+    border-radius: 30px;
+}
+
+.vote{
+    background-color: white;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 10px;
+}
