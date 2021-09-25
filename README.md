@@ -1,4 +1,11 @@
-# Practice
+# Football Club Popularity Poll
+
+A voting application with four teams FC Barcelona, Real Madrid, FC Bayern Munich and Liverpool, with a voting button alongside the respected team, choose your favourite team and increases the vote count.
+
+## Screenshots -
+
+![footballclubpic](https://user-images.githubusercontent.com/63968420/134770957-c0a6e5c5-c221-4839-93fc-6c37ec2b2a4e.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
