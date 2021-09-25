@@ -6,6 +6,9 @@ A voting application with four teams FC Barcelona, Real Madrid, FC Bayern Munich
 
 ![footballclubpic](https://user-images.githubusercontent.com/63968420/134770957-c0a6e5c5-c221-4839-93fc-6c37ec2b2a4e.png)
 
+![Football-club](https://user-images.githubusercontent.com/63968420/134771496-cac50e30-9c4e-40d4-895c-93c6a31c66f9.gif)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
